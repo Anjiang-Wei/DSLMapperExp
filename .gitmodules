@@ -4,3 +4,6 @@
 [submodule "legion"]
 	path = legion
 	url = git@github.com:Anjiang-Wei/legion.git
+[submodule "taco"]
+	path = taco
+	url = git@github.com:Anjiang-Wei/taco.git
