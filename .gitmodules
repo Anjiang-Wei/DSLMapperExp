@@ -1,3 +1,6 @@
 [submodule "DSLMapper"]
 	path = DSLMapper
 	url = git@github.com:Anjiang-Wei/DSLMapper.git
+[submodule "legion"]
+	path = legion
+	url = git@github.com:Anjiang-Wei/legion.git
